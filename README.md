@@ -1,5 +1,7 @@
 # Natural Language Processing Specialisation 
 
+<p align="center"><img width="50%" src="specialisation-banner.jpg" /></p>
+
 This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) on Coursera offered by deeplearning.ai. 
 
 **Instructor**: [Prof. Andrew Ng](www.andrewng.org)
